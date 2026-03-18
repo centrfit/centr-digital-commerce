@@ -108,7 +108,7 @@ After writing the file, tell the user:
 >
 > **To submit:**
 > 1. Review the file and make any edits you'd like
-> 2. Upload it at: [GOOGLE_FORM_LINK_PLACEHOLDER]
+> 2. Upload it at: https://docs.google.com/forms/d/e/1FAIpQLSc_QVsZBLd3l4xT3yoRInpreZbCugIEcGM0jASvg8-YFnAsgQ/viewform
 >
 > Good luck!
 

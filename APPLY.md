@@ -39,7 +39,7 @@ Open this repo in Claude Code and run `/apply`. The command will:
 
 Review your generated file. Edit anything you'd like.
 
-Upload it here: **[GOOGLE_FORM_LINK_PLACEHOLDER]**
+Upload it here: **[https://forms.gle/centr-digital-commerce](https://docs.google.com/forms/d/e/1FAIpQLSc_QVsZBLd3l4xT3yoRInpreZbCugIEcGM0jASvg8-YFnAsgQ/viewform)**
 
 ---
 
@@ -59,7 +59,7 @@ Both matter. A great Claude Code user with no ecom experience won't fit. A great
 
 ## Timeline
 
-- **Applications close:** [DATE — 7 days from launch]
+- **Applications close:** March 25, 2026
 - **Top candidates** receive a second-round challenge within 48 hours of submission
 - **Final interviews** happen within the week
 - We're hiring fast
